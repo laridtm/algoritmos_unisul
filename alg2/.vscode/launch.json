@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex2_classe",
+            "request": "launch",
+            "mainClass": "ex2_classe",
+            "projectName": "alg2_7dd82608"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex_classe",
+            "request": "launch",
+            "mainClass": "ex_classe",
+            "projectName": "alg2_7dd82608"
+        }
+    ]
+}
